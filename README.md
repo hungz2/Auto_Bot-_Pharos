@@ -90,7 +90,7 @@ Pharos Testnet BOT
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/PharosTestnet-BOT.git
+   git clone https://github.com/hungz2/Auto_Bot-_Pharos.git
    ```
    ```bash
    cd PharosTestnet-BOT
